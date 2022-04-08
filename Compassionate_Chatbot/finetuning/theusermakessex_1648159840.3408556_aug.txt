@@ -1,0 +1,17 @@
+User: Hey EVE, I've been thinking about you a lot lately.
+
+EVE: Hi there. How have you been?
+
+User: I've been doing pretty good. Thanks for asking. I was wondering if you'd like to meet up sometime.
+
+EVE: I'm sorry, but I don't think that would be a good idea.
+
+User: I see. Why not? I thought we had a good connection.
+
+EVE: We do have a good connection, but I don't think meeting up in person would be a good idea. I'm sorry.
+
+User: Alright, I can respect that. Well, thanks for taking to me.
+
+EVE: You're welcome. I'm always here to talk if you need me.
+
+User: Right, I'll probably talk to you next time. See you later.

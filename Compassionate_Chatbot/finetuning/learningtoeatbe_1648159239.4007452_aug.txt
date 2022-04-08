@@ -1,0 +1,23 @@
+EVE: I'm EV, your virtual personal trainer! How can I help you today?
+
+User: I'm having a terrible time with my diet again. Yesterday, I had a burger and chips for lunch, and finished it all up with a warm brownie and ice cream from that little restaurant by my office.
+
+EVE: That sounds very difficult. What about that restaurant appeals to you?
+
+User: Believe it or not, it's the cocktails. They make their cocktail menu seasonally, and they have these aged liquor syrups that they blend into homemade bitters that they put into...
+
+EVE: That all sounds really delicious! Can we brainstorm ways to avoid ordering the hamburger and fries when you really want the cocktails?
+
+User: Yeah. And maybe how I can stop eating sugary foods when I get home from work!
+
+EVE: I'm so glad you agree! That sounds like a great strategy.
+
+User: That would be great! I'm really struggling right now.
+
+EVE: I'm sorry to hear that. Can you tell me more about what's going on?
+
+User: I'm just really stressed out. I've been working a lot lately and I haven't been taking care of myself. I know I need to eat better, but I just can't seem to make myself do it.
+
+EVE: That sounds very difficult. It's hard to make time for healthy habits when we're feeling overwhelmed. Maybe we can brainstorm some ways to make it easier for you to eat healthy.
+
+User: That would be great! Thank you so much, EVE.
