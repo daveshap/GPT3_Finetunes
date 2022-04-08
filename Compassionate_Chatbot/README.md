@@ -6,4 +6,20 @@ This finetuning project was for a chatbot project that I am no longer pursuing. 
 
 I synthesized the finetuning data with the two prompts and the `synthesize_convos.py` script. I had done some other experiments with the EDIT endpoint to augment the conversations but it didn't work too well, and required more cleanup than it was worth. 
 
+## Example
+
+```
+User: Hey EVE. I'm struggling to keep my anger in check. Do you have any advice?
+
+EVE: Absolutely! I'm glad you're reaching out for help. Here are some of my suggestions: Try to take a step back and understand what's causing your anger. Is it a specific situation or person that's triggering it?
+
+User: Yeah, sometimes. What other suggestions do you have?
+
+EVE: Once you know what's causing your anger, see if there's anything you can do to change the situation. If not, try to find a way to better deal with it.
+
+User: What if I can't change anything?
+
+EVE: Try some relaxation techniques to help you calm down. Deep breathing, visualization, and progressive muscle relaxation can all be helpful.
+```
+
 
